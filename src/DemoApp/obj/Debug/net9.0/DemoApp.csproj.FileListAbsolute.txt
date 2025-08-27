@@ -1,0 +1,15 @@
+C:\Users\monika-verma\ai-code-review-demo\src\DemoApp\bin\Debug\net9.0\DemoApp.exe
+C:\Users\monika-verma\ai-code-review-demo\src\DemoApp\bin\Debug\net9.0\DemoApp.deps.json
+C:\Users\monika-verma\ai-code-review-demo\src\DemoApp\bin\Debug\net9.0\DemoApp.runtimeconfig.json
+C:\Users\monika-verma\ai-code-review-demo\src\DemoApp\bin\Debug\net9.0\DemoApp.dll
+C:\Users\monika-verma\ai-code-review-demo\src\DemoApp\bin\Debug\net9.0\DemoApp.pdb
+C:\Users\monika-verma\ai-code-review-demo\src\DemoApp\obj\Debug\net9.0\DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monika-verma\ai-code-review-demo\src\DemoApp\obj\Debug\net9.0\DemoApp.AssemblyInfoInputs.cache
+C:\Users\monika-verma\ai-code-review-demo\src\DemoApp\obj\Debug\net9.0\DemoApp.AssemblyInfo.cs
+C:\Users\monika-verma\ai-code-review-demo\src\DemoApp\obj\Debug\net9.0\DemoApp.csproj.CoreCompileInputs.cache
+C:\Users\monika-verma\ai-code-review-demo\src\DemoApp\obj\Debug\net9.0\DemoApp.sourcelink.json
+C:\Users\monika-verma\ai-code-review-demo\src\DemoApp\obj\Debug\net9.0\DemoApp.dll
+C:\Users\monika-verma\ai-code-review-demo\src\DemoApp\obj\Debug\net9.0\refint\DemoApp.dll
+C:\Users\monika-verma\ai-code-review-demo\src\DemoApp\obj\Debug\net9.0\DemoApp.pdb
+C:\Users\monika-verma\ai-code-review-demo\src\DemoApp\obj\Debug\net9.0\DemoApp.genruntimeconfig.cache
+C:\Users\monika-verma\ai-code-review-demo\src\DemoApp\obj\Debug\net9.0\ref\DemoApp.dll
